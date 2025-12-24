@@ -1,9 +1,56 @@
-- 👋 Hi, I’m @Basmala-123
-- 👀 I’m interested in Frontend and web technology
-- 🌱 I’m currently learning Computer science and Electric System in Faculty of Engineering
-- 📫 How to reach me ... you can mail me on (basmalaebrahem173@gmail.com)
+# Hi 👋 I'm Basmala
 
-<!---
-Basmala-123/Basmala-123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎨 Frontend Developer | ⚛️ React & Angular Enthusiast  
+📍 Egypt | 💻 Remote Friendly
+
+---
+
+## 👩‍💻 About Me
+
+I'm a **Frontend Developer** with over **2+ years of experience** building modern, responsive, and user-friendly web applications.
+
+I started my journey with **Angular**, where I spent around **3 years** working on real-world projects, and I'm currently focusing on **React**, improving my skills step by step and diving deep into best practices.
+
+I enjoy:
+- Turning designs into clean UI
+- Writing readable and maintainable code
+- Learning how things work *under the hood*
+- Sharing knowledge through content & explanations
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript (ES6+)
+- **Frameworks:** Angular, React
+- **Styling:** CSS, Flexbox, Grid
+- **Tools:** Git, GitHub, npm
+
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced React patterns
+- State & performance optimization
+- Clean code & best practices
+- Frontend system design
+
+---
+
+## 📌 What I Care About
+
+- Clean & scalable code
+- Good UI/UX
+- Continuous learning
+- Writing code that *makes sense*, not just works
+
+---
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: [https://www.linkedin.com/in/basmala-ibrahim-abdelaaty-abb59b193/]
+
+---
+
+✨ *“Code is not just about writing — it's about thinking.”*
