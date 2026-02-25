@@ -7,7 +7,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Frontend Developer** with over **2+ years of experience** building modern, responsive, and user-friendly web applications.
+I'm a **Frontend Developer** with over **3+ years of experience** building modern, responsive, and user-friendly web applications.
 
 I started my journey with **Angular**, where I spent around **3 years** working on real-world projects, and I'm currently focusing on **React**, improving my skills step by step and diving deep into best practices.
 
